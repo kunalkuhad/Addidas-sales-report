@@ -28,7 +28,8 @@ This repository contains a Power BI project that provides an interactive dashboa
 ---
 
 ## 📈 Preview
-*(Add a screenshot of your dashboard here for visual appeal)*
+![Screenshot 2025-07-09 112713](https://github.com/user-attachments/assets/92677c66-4704-442e-af4a-bc4a54572469)
+
 
 ---
 
